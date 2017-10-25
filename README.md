@@ -1,3 +1,7 @@
-The OpenShift `jbosseap` cartridge documentation can be found at:
+This coursework is designed to give you experience building Java EE 7 applications and deploying them to the Cloud. You will build a real-world application using real enterprise technologies. This coursework provides you with an opportunity to work on an entire application, from the data-storage through to the web frontend. As a result you will need to become familiar with a wide range of technologies. It is important that you start the work early and ask for help when needed. By completing this coursework, you will gain some useful experience and skills.
 
-http://openshift.github.io/documentation/oo_cartridge_guide.html#jbosseap
+In Part One you will build a simple service, hosted on a Platform as a Service Cloud. The service should be accessible through a RESTful JSON api and accompanied by a selection of tests to demonstrate that it satisfies the provided requirements.
+
+In Part Two you will implement some advanced functionality upon the base service from Part One, such as cascading updates for related entities and a transactional endpoint.
+
+In Part Three you will create a new, more complex, service. It will make requests to your Part One service, along with those of two colleagues. This service should also be accompanied by more tests and JSON endpoints. These endpoints, and their responses, should match those expected by an AngularJS client application, which will be provided. If done correctly, you will have a functioning single-page web application (SPA) after this step. It should be noted however that integration with the frontend in the final part of the coursework is entirely optional however.
