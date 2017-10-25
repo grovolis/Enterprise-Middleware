@@ -1,0 +1,3 @@
+org\jboss\quickstarts\wfk\booking\BookingTest.class
+org\jboss\quickstarts\wfk\flight\FlightTest.class
+org\jboss\quickstarts\wfk\customer\CustomerTest.class
